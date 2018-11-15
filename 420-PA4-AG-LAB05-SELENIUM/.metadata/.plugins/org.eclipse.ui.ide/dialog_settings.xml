@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/eleves/Documents/GRASSET/CONTROLEQUALITE/420-PA4-AG-LAB05-SELENIUM"/>
+		<item value="/Users/eleves/Documents/GitHub/controleQualite/B"/>
+		<item value="/Users/eleves/Documents/GRASSET/CONTROLEQUALITE/420-PA4-AG-LAB06-TESTLINK"/>
 		<item value="/Users/eleves/Documents/GitHub/controleQualite/420-PA4-AG-LAB05-SELENIUM"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
@@ -9,6 +12,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 			<item value="/Users/eleves/Documents/GitHub/controleQualite/B"/>
+			<item value="/Users/eleves/Documents/GitHub/controleQualite/tp2/420-PA4-AG-TP02"/>
 			<item value="/Users/eleves/Documents/GitHub/controleQualite/lab5"/>
 			<item value="/Users/eleves/Documents/GitHub/controleQualite/420-PA4-AG-LAB05-SELENIUM"/>
 		</list>
